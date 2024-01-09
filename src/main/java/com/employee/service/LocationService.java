@@ -13,4 +13,9 @@ public class LocationService {
 		System.out.println("jhsbbqhxb");
 		System.out.println("shusjb");
 	}
+
+	public void addedMethod() {
+		System.out.println("Methpd Added");
+	}
+	
 }
